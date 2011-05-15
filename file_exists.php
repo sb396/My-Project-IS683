@@ -1,5 +1,5 @@
-
-n fileExists(string $path, string $file)
+<?php
+function fileExists(string $path, string $file)
     {
         try
         {
